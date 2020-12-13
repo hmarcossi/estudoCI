@@ -3,7 +3,7 @@ Estudo de CI
 
 ## Como Executar o projet
 
-"Ter o Ruby instalado (v2.5+)
+* Ter o Ruby instalado (v2.5+)
 
 ### Instalar o Bundler
 `
